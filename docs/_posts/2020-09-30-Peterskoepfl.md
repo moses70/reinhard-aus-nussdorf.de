@@ -2,6 +2,7 @@
 layout: post
 title:  "Petersköpfl"
 categories: [ Bergwandern ]
+tags: [featured]
 image: assets/images/peterskoepfl1.jpg
 ---
 Auf dem Weg zur Pyramidenspitze ist das Petersköpfl ein kurzer, aber sehr lohnender Abstecher. Ein guter Platz auch, um sehr nette Leute zu treffen.
